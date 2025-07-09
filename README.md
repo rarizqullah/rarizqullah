@@ -24,12 +24,18 @@
 
 ---
 
-<h2 align="center"> My GitHub Stats</h2>
+<p align="center">
+  <img src="https://i.gifer.com/origin/88/882117ba6592b729734d6ae65f4946c9_w200.gif" height="80" />
+</p>
 
-
-
+<h4 align="center">🔥 My Contribution Streak 🔥</h4>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rarizqullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">Continuing the journey, one commit at a time! 👨‍💻</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/88/882117ba6592b729734d6ae65f4946c9_w200.gif" height="80" />
 </p>
 
 ---
