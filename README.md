@@ -23,24 +23,6 @@
   <a href="https://URL_PORTOFOLIO_ANDA" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-# 🚀 Proyek Unggulan
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Nama Proyek 1</h3>
-      <p align="center">
-        <a href="LINK_REPO_1" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rarizqullah&repo=NAMA_REPO_1&theme=dark&hide_border=true&show_icons=true" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Nama Proyek 2</h3>
-      <p align="center">
-        <a href="LINK_REPO_2" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rarizqullah&repo=NAMA_REPO_2&theme=dark&hide_border=true&show_icons=true" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) # 📊 GitHub Stats:
 <p align="center">
