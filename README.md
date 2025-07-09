@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rarizqullah/rarizqullah/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://cdn.pixabay.com/animation/2023/04/16/16/18/16-18-04-472_512.gif" alt="Anime Developer GIF">
 </p>
 
 ---
