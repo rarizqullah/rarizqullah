@@ -1,41 +1,52 @@
 <p align="center">
- <p align="center">
- <p align="center">
   <a href="https://github.com/rarizqullah">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Rafi!&fontSize=70" alt="Header Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=dark&height=200&section=header&text=Hi,%20I'm%20Rafi!&fontSize=70" alt="Header Banner"/>
   </a>
 </p>
-</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning+%26+Creating;Loves+JavaScript+%26+Python" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">I am a student who focuses on software development. 🇮🇩</h1>
+<p align="center">
+  <a href="mailto:rafirizqullah4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://URL_PORTOFOLIO_ANDA" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rarizqullah/rarizqullah/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+---
+
+<h2 align="center">📊 My GitHub Stats & Trophies 🏆</h2>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rarizqullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=rarizqullah&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<details align="center">
+  <summary>Click here to learn more about me and my tech stack</summary>
+  
 # 💫 About Me:
 <p>
   I am a <b>Full-Stack Developer</b> passionate about building modern and functional web applications. I have a particular interest in the ecosystem <b>JavaScript/TypeScript</b>, especially with <b>Next.js</b> and <b>Vue.js</b>.
 </p>
 
-* 🔭 I am currently experimenting with **[_AI and Web3]**.
-* 🌱 I am currently studying **CI/CD using Docker dan GitHub Actions**.
+* 🔭 I am currently experimenting with **AI and Web3**.
+* 🌱 I am currently studying **CI/CD using Docker and GitHub Actions**.
 * 👯 Open to **collaborate** in open-source projects.
-* 📫 Contact me via email: **rafirizqullah4@gmail.com**
-
-## 🌐 Socials & Portfolio:
-<p align="left">
-  <a href="mailto:rafirizqullah4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://URL_PORTOFOLIO_ANDA" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</details>
 
 ---
-<p align="center">
-  
-</p>
