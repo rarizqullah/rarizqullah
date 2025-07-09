@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rarizqullah">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=dark&height=200&section=header&text=Hi,%20I'm%20Rafi!&fontSize=70" alt="Header Banner"/>
+    <img src="https://i.gifer.com/3F3I.gif" alt="Header Banner GIF" width="100%"/>
   </a>
 </p>
 
