@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="URL_HASIL_KONVERSI_GIF_ANDA.gif" alt="Animasi Keren">
+  <img src="https://i.gifer.com/g32K.gif" alt="Aesthetic Animation">
 </p>
 
 ---
