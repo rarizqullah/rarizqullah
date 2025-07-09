@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/7HXy.gif" alt="Anime Eye GIF">
+  <img src="URL_HASIL_KONVERSI_GIF_ANDA.gif" alt="Animasi Keren">
 </p>
 
 ---
