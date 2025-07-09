@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/g32K.gif" alt="Aesthetic Animation">
+  <img src="https://i.gifer.com/bfR.gif" alt="Aesthetic Animation">
 </p>
 
 ---
