@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/08/07/00/41/00-41-53-965_256.gif" alt="Futuristic Tunnel GIF">
+  <img src="https://fiverr-res.cloudinary.com/images/f_auto,q_auto,t_main1/v1/attachments/delivery/asset/71877cc2f4249c2b4701620ae3833e62-1732427466/WBP/do-an-anime-style-gif-for-you.gif" alt="Anime Girl GIF">
 </p>
 
 ---
