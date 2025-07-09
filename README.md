@@ -1,8 +1,10 @@
 <p align="center">
  <p align="center">
+ <p align="center">
   <a href="https://github.com/rarizqullah">
-    <img src="URL_KE_GIF_API_ANDA_ATAU_LINK_LANGSUNG_GIF" alt="Hi, I'm Rafi! - Fire Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Rafi!&fontSize=70" alt="Header Banner"/>
   </a>
+</p>
 </p>
 </p>
 
