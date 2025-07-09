@@ -17,9 +17,8 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/04/16/16/18/16-18-04-472_512.gif" alt="Anime Developer GIF">
+  <img src="https://cdn.pixabay.com/animation/2022/08/07/00/41/00-41-53-965_256.gif" alt="Futuristic Tunnel GIF">
 </p>
-
 ---
 
 <h2 align="center"> My GitHub Stats</h2>
