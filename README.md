@@ -24,13 +24,7 @@
 
 <h2 align="center"> My GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="rarizqullah's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=tokyonight&hide_border=true&layout=pie" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rarizqullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
