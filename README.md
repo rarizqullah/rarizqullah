@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://github.com/rarizqullah">
-    <img src="https://i.gifer.com/3F3I.gif" alt="Header Banner GIF" width="100%"/>
-  </a>
-</p>
+<div align="center">
+  <h1>Hi, I'm Rafi! 👋</h1>
+  <img src="https://i.gifer.com/2ii5.gif" alt="Header Background GIF" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning+%26+Creating;Loves+JavaScript+%26+Python" alt="Typing SVG" /></a>
