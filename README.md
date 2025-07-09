@@ -22,15 +22,22 @@
 
 ---
 
-<h2 align="center"> My GitHub Stats</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl0c2hscXVneHVrdW9ubnA4YmI1bWE5MHB6N3ZzcXNsb2o1aWJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L05Ho02s37wAAT1x06/giphy.gif" />
+</p>
+
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="rarizqullah's GitHub Stats" />
 </p>
-
 <p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=tokyonight&hide_border=true&layout=pie" alt="Top Languages" />
   <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=rarizqullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl0c2hscXVneHVrdW9ubnA4YmI1bWE5MHB6N3ZzcXNsb2o1aWJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L05Ho02s37wAAT1x06/giphy.gif" />
 </p>
 
 ---
@@ -43,9 +50,9 @@
   I am a <b>Full-Stack Developer</b> passionate about building modern and functional web applications. I have a particular interest in the ecosystem <b>JavaScript/TypeScript</b>, especially with <b>Next.js</b> and <b>Vue.js</b>.
 </p>
 
-* 🔭 I am currently experimenting with **AI and Web3**.
-* 🌱 I am currently studying **CI/CD using Docker and GitHub Actions**.
-* 👯 Open to **collaborate** in open-source projects.
+ 🔭 I am currently experimenting with **AI and Web3**.
+ 🌱 I am currently studying **CI/CD using Docker and GitHub Actions**.
+ 👯 Open to **collaborate** in open-source projects.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
