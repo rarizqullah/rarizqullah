@@ -16,17 +16,10 @@
 
 ---
 
+
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://i.gifer.com/bfR.gif" alt="Aesthetic Animation 1" width="200">
-      </td>
-      <td align="center">
-        <img src="https://i.gifer.com/origin/24/242fe9cf6125a52fc2823c3350b1200a_w200.webp" alt="Aesthetic Animation 2" width="200">
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.gifer.com/bfR.gif" alt="Aesthetic Animation 1">
+  <img src="https://i.gifer.com/origin/24/242fe9cf6125a52fc2823c3350b1200a_w200.webp" alt="Aesthetic Animation 2">
 </p>
 
 ---
