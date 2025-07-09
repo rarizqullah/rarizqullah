@@ -22,22 +22,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl0c2hscXVneHVrdW9ubnA4YmI1bWE5MHB6N3ZzcXNsb2o1aWJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L05Ho02s37wAAT1x06/giphy.gif" />
-</p>
-
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center"> My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="rarizqullah's GitHub Stats" />
-</p>
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=tokyonight&hide_border=true&layout=pie" alt="Top Languages" />
-  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=rarizqullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="rarizqullah's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl0c2hscXVneHVrdW9ubnA4YmI1bWE5MHB6N3ZzcXNsb2o1aWJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L05Ho02s37wAAT1x06/giphy.gif" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=tokyonight&hide_border=true&layout=pie" alt="Top Languages" />
+ <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rarizqullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
