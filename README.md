@@ -3,27 +3,23 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning+%26+Creating;Loves+JavaScript+%26+Python" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning+%26+Creating;Loves+JavaScript+%26+Python" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="mailto:rafirizqullah4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2D3748?style=for-the-badge&logo=gmail&logoColor=00CED1" /></a>
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2D3748?style=for-the-badge&logo=linkedin&logoColor=00CED1" /></a>
-  <a href="https://URL_PORTOFOLIO_ANDA" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2D3748?style=for-the-badge&logo=google-chrome&logoColor=00CED1" /></a>
+  <a href="mailto:rafirizqullah4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://URL_PORTOFOLIO_ANDA" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="URL_TO_SUBTLE_TECH_ANIMATION_1.gif" height="80" alt="Tech Animation 1">
-  <img src="URL_TO_SUBTLE_TECH_ANIMATION_2.gif" height="80" alt="Tech Animation 2">
-  <img src="URL_TO_SUBTLE_TECH_ANIMATION_3.gif" height="80" alt="Tech Animation 3">
+  <img src="https://i.gifer.com/origin/9d/9d036900febef8da5657c81a8984f2e5_w200.webp" alt="Aesthetic Animation 3">
+  <img src="https://i.gifer.com/bfR.gif" alt="Aesthetic Animation 1">
+  <img src="https://i.gifer.com/origin/24/242fe9cf6125a52fc2823c3350b1200a_w200.webp" alt="Aesthetic Animation 2">
 </p>
 
----
-
 <p align="center">
-  <img src="URL_TO_CODING_PROGRESS_ANIMATION.gif" height="80" alt="Coding Progress" />
+  <img src="https://i.gifer.com/origin/88/882117ba6592b729734d6ae65f4946c9_w200.gif" height="80" />
 </p>
 
 <h4 align="center">🔥 My Contribution Streak 🔥</h4>
@@ -33,10 +29,8 @@
 <p align="center">Continuing the journey, one commit at a time! 👨‍💻</p>
 
 <p align="center">
-  <img src="URL_TO_ANOTHER_CODING_PROGRESS_ANIMATION.gif" height="80" alt="Coding Progress" />
+  <img src="https://i.gifer.com/origin/88/882117ba6592b729734d6ae65f4946c9_w200.gif" height="80" />
 </p>
-
----
 
 <details align="center">
   <summary>Click here to learn more about me and my tech stack</summary>
@@ -51,12 +45,5 @@
   👯 Open to **collaborate** in open-source projects.
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%232D3748.svg?style=for-the-badge&logo=javascript&logoColor=%2300CED1) 
-![TypeScript](https://img.shields.io/badge/typescript-%232D3748.svg?style=for-the-badge&logo=typescript&logoColor=%2300CED1) 
-![Python](https://img.shields.io/badge/python-%232D3748.svg?style=for-the-badge&logo=python&logoColor=%2300CED1)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </details>
-
----
-Remember to replace the placeholder URLs for animations (`URL_TO_SUBTLE_TECH_ANIMATION_1.gif`, etc.) with actual image URLs you find or create.
-
-Would you like some resources on where to find good quality, subtle animations or how to create simple SVG animations?
