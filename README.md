@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Rafi! 👋</h1>
-  <img src="https://i.gifer.com/2ii5.gif" alt="Header Background GIF" width="100%"/>
 </div>
 
 <p align="center">
