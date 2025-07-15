@@ -43,9 +43,11 @@
 </p>
 
 <p align="center">
-  <img src="URL_WAKATIME_STATS_ANDA" alt="WakaTime Stats" width="820" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-
+<p align="center">
+  [![](https://visitcount.itsvg.in/api?id=rarizqullah&icon=0&color=10)](https://visitcount.itsvg.in)
+</p>
