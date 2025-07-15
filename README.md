@@ -3,35 +3,48 @@
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eldablo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafirizqullah4@gmail.com) 
+[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/eldablo) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafirizqullah4@gmail.com) 
+
+---
 
 # 💻 Tech Stack:
-<div align="center">
-  <!-- baris 1 -->
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-  <!-- baris 2 -->
-https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white
-https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-  <!-- baris 3 -->
-https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-  <!-- baris 4 -->
-https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white
-https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white
-https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white
-</div>
-# 📊 GitHub Stats:
-<div align="center">
-|                                                                                                                                                           |                                                                                                                                        |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Rafi’s stats](https://github-readme-stats.vercel.app/api?username=rarizqullah\&theme=dark\&hide_border=true\&show_icons=true\&include_all_commits=true) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah\&theme=dark\&hide_border=true\&layout=compact) |
-|                                ![Streak](https://streak-stats.demolab.com/?user=rarizqullah\&theme=dark\&hide_border=true)                                |                                                                                                                                        |
-</div>
----
-[![](https://visitcount.itsvg.in/api?id=rarizqullah&icon=0&color=10)](https://visitcount.itsvg.in)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+<br/>
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) 
+![Next JS](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
+<br/>
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) 
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
+<br/>
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+<br/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  [![](https://visitcount.itsvg.in/api?id=rarizqullah&icon=0&color=10)](https://visitcount.itsvg.in)
+  </p>
