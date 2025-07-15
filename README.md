@@ -1,4 +1,4 @@
-# 💫 Hello!:
+# 💫 Hello!
   🔭 I am currently experimenting with **AI and Web3**.<br>  🌱 I am currently studying **CI/CD using Docker and GitHub Actions**.<br>  👯 Open to **collaborate** in open-source projects.
 
 
@@ -37,16 +37,17 @@
 ---
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="450" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" width="450" height="190" />
+  <img src="URL_WAKATIME_STATS_ANDA" alt="WakaTime Stats" />
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" />
   [![](https://visitcount.itsvg.in/api?id=rarizqullah&icon=0&color=10)](https://visitcount.itsvg.in)
 </p>
