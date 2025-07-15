@@ -42,10 +42,8 @@
 </p>
 
 <p align="center">
-  <img src="URL_WAKATIME_STATS_ANDA" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rarizqullah&theme=dark&hide_border=false&layout=compact" alt="WakaTime Stats" width="400" />
 </p>
-
----
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" />
