@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 
 
----
+
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="280"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="280"/>
