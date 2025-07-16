@@ -1,8 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=460&lines=Hello+there!👋🏻;Nice+to+meet+you!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=460&lines=Hello+there!👋;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
- <a href="https://x.com/eldablo"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"></a>
+</div>
+
+<div align="center">
+  <a href="https://x.com/eldablo"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"></a>
   <a href="mailto:rafirizqullah4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
