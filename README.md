@@ -9,7 +9,7 @@
 ---
 
 ### 💻 Tech Stack:
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://i.gifer.com/2vDa.gif)" alt="coding gif" align="right" style="float: right; margin-left: 20px;" width="300px"/>
+<img src="https://i.gifer.com/2vDa.gif" alt="coding gif" align="right" style="float: right; margin-left: 20px;" width="300px"/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)&nbsp;
