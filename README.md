@@ -3,7 +3,6 @@
     Hello there!
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   </h1>
-  <h3>Nice to meet you!</h3>
 </div>
 
 <div align="center">
