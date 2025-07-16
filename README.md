@@ -1,7 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=460&lines=Hello+there!👋;Nice+to+meet+you!" alt="Typing SVG" />
-  </a>
+  <h1>
+    Hello there!
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  </h1>
+  <h3>Nice to meet you!</h3>
 </div>
 
 <div align="center">
