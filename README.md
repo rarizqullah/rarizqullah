@@ -1,18 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=👋🏻+Hello,+World!;I'm+Rafi+Risqullah+Putra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=460&lines=Hello+there!👋🏻;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
+ <a href="https://x.com/eldablo"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"></a>
+  <a href="mailto:rafirizqullah4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <p align="center">
 Driven by a passion for future technologies, my main focus is currently on exploring the exciting fields of AI and Web3. Believing that great ideas require solid execution, I am actively strengthening my skills in modern DevOps, particularly in building CI/CD pipelines with Docker and GitHub Actions. I am always eager to collaborate and contribute to innovative open-source projects.
 </p>
-
-<div align="center">
-  <h2>🌐 Socials</h2>
-  <a href="https://x.com/eldablo"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"></a>
-  <a href="mailto:rafirizqullah4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
 
 ---
 
