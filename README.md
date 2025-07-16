@@ -8,32 +8,42 @@
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-<br/>
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) 
-![Next JS](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
-<br/>
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) 
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
-<br/>
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-
+<table>
+  <tr>
+    <td valign="top">
+      <h3 align="left">💻 Tech Stack:</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+        <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/>&nbsp;
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel"/>&nbsp;
+        <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>&nbsp;
+        <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next JS"/>&nbsp;
+        <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="NodeJS"/>&nbsp;
+        <img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens" alt="JWT"/>&nbsp;
+        <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx"/>&nbsp;
+        <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white" alt="Postgres"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white" alt="Prisma"/>&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>&nbsp;
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+        <br/>
+        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;
+        <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub"/>&nbsp;
+        <img src="https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=white" alt="GitLab"/>&nbsp;
+        <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git"/>
+      </p>
+    </td>
+    <td valign="top" align="right">
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="coding gif" width="300px"/>
+    </td>
+  </tr>
+</table>
 ---
 # 📊 GitHub Stats:
 <p align="center">
