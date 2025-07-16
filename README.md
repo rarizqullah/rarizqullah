@@ -1,5 +1,12 @@
-# 💫 Hello!
-  🔭 I am currently experimenting with **AI and Web3**.<br>  🌱 I am currently studying **CI/CD using Docker and GitHub Actions**.<br>  👯 Open to **collaborate** in open-source projects.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=👋🏻+Hello,+World!;I'm+Rafi+Risqullah+Putra" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+Driven by a passion for future technologies, my main focus is currently on exploring the exciting fields of AI and Web3. Believing that great ideas require solid execution, I am actively strengthening my skills in modern DevOps, particularly in building CI/CD pipelines with Docker and GitHub Actions. I am always eager to collaborate and contribute to innovative open-source projects.
+</p>
 
 <div align="center">
   <h2>🌐 Socials</h2>
