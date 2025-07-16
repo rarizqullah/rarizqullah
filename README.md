@@ -41,6 +41,5 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="280"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="280"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" width="280"/>
 </div>
