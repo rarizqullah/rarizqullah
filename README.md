@@ -39,16 +39,32 @@
 
 ---
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="315" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rarizqullah&theme=dark&hide_border=false&layout=compact" alt="WakaTime Stats" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" />
-  [![](https://visitcount.itsvg.in/api?id=rarizqullah&icon=0&color=10)](https://visitcount.itsvg.in)
-</p>
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr align="center">
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rarizqullah&theme=dark&hide_border=false&layout=compact" alt="WakaTime Stats" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <a href="https://visitcount.itsvg.in">
+          <img src="https://visitcount.itsvg.in/api?id=rarizqullah&icon=0&color=10" alt="Visitor Count">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
