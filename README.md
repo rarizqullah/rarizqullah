@@ -46,7 +46,6 @@ Driven by a passion for future technologies, my main focus is currently on explo
 <br clear="both"/>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="280"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false" alt="GitHub Streak" width="307"/>
 </div>
