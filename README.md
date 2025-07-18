@@ -18,7 +18,7 @@ Driven by a passion for future technologies, my main focus is currently on explo
 
 ### 💻 Tech Stack & Tools
 
-<img src="https://i.gifer.com/2vDa.gif" alt="coding gif" align="right" width="300"/>
+<img src="https://i.gifer.com/8mee.gif" alt="coding gif" align="right" width="300"/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
