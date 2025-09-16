@@ -3,13 +3,14 @@
 </h1>
 
 <p>
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white" alt="X/Twitter" height="22">
+  <a href="https://x.com/" style="text-decoration:none; color:black; font-size:14px; border:1px solid black; padding:2px 6px; margin-right:6px; border-radius:4px;">
+    X
   </a>
-  <a href="mailto:rafirizqullah4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="22">
+  <a href="mailto:rafirizqullah4@gmail.com" style="text-decoration:none; color:black; font-size:14px; border:1px solid black; padding:2px 6px; border-radius:4px;">
+    Email
   </a>
 </p>
+
 
 <p align="justify">
   Driven by a passion for future technologies, my main focus is currently on exploring the exciting fields of AI and Web3. 
