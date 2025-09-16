@@ -16,7 +16,7 @@ Driven by a passion for future technologies, my main focus is currently on explo
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 <img src="https://i.gifer.com/8mee.gif" alt="coding gif" align="right" width="300"/>
 
