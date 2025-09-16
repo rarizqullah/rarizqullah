@@ -1,20 +1,23 @@
-<div align="center">
-  <h1>
-    Hello there!
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  </h1>
-</div>
+<h1>Hello 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" />
+</h1>
 
-<div align="center">
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"></a>
-  <a href="mailto:rafirizqullah4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
-
-<p align="left">
-Driven by a passion for future technologies, my main focus is currently on exploring the exciting fields of AI and Web3. Believing that great ideas require solid execution, I am actively strengthening my skills in modern DevOps, particularly in building CI/CD pipelines with Docker and GitHub Actions. I am always eager to collaborate and contribute to innovative open-source projects.
+<p>
+  <a href="https://x.com/">
+    <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white" alt="X/Twitter">
+  </a>
+  <a href="mailto:rafirizqullah4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
----
+<p align="justify">
+  Driven by a passion for future technologies, my main focus is currently on exploring the exciting fields of AI and Web3. 
+  Believing that great ideas require solid execution, I am actively strengthening my skills in modern DevOps, particularly 
+  in building CI/CD pipelines with Docker and GitHub Actions. I am always eager to collaborate and contribute to 
+  innovative open-source projects.
+</p>
+
 
 ### Tech Stack & Tools
 
