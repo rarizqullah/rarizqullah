@@ -4,10 +4,10 @@
 
 <p>
   <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white" alt="X/Twitter">
+    <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white" alt="X/Twitter" height="22">
   </a>
   <a href="mailto:rafirizqullah4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="22">
   </a>
 </p>
 
