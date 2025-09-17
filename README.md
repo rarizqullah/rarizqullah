@@ -6,6 +6,7 @@
 <span style="display:inline-block; animation: wave 1.5s infinite .4s;">o,</span> 
 <span style="margin-left:6px;">my name Rafi Risqullah Putra</span> 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" />
+</h1>
 
 
 <p align="justify">
