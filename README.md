@@ -1,6 +1,20 @@
-<h1>Hello 
+<h1>
+  <span style="font-family:monospace; border-right:2px solid; white-space:nowrap; overflow:hidden; display:inline-block; animation:typing 4s steps(30,end), blink .75s step-end infinite;">
+    Hello, my name Rafi Risqullah Putra
+  </span>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" />
 </h1>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink {
+  from, to { border-color: transparent }
+  50% { border-color: black }
+}
+</style>
 
 <p align="justify">
   Driven by a passion for future technologies, my main focus is currently on exploring the exciting fields of AI and Web3. 
@@ -10,7 +24,7 @@
 </p>
 
 
-### Tech Stack & Tools
+## Stack
 
 <img src="https://i.gifer.com/8mee.gif" alt="coding gif" align="right" width="300"/>
 
