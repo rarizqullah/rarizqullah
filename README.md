@@ -8,23 +8,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" />
 </h1>
 
-<style>
-@keyframes wave {
-  0%, 60%, 100% { transform: translateY(0); }
-  30% { transform: translateY(-10px); }
-}
-</style>
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink {
-  from, to { border-color: transparent }
-  50% { border-color: black }
-}
-</style>
 
 <p align="justify">
   Driven by a passion for future technologies, my main focus is currently on exploring the exciting fields of AI and Web3. 
