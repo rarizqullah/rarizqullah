@@ -1,11 +1,6 @@
 <h1>
-  <span style="display:inline-block; animation: wave 1.5s infinite;">H</span>
-  <span style="display:inline-block; animation: wave 1.5s infinite .1s;">e</span>
-  <span style="display:inline-block; animation: wave 1.5s infinite .2s;">l</span>
-  <span style="display:inline-block; animation: wave 1.5s infinite .3s;">l</span>
-  <span style="display:inline-block; animation: wave 1.5s infinite .4s;">o,</span>
-  <span style="margin-left:6px;">my name Rafi Risqullah Putra</span>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" />
+ <img src="./assets/hello-split.svg" alt="Hello, my name Rafi Risqullah Putra 👋" width="720">
+
 </h1>
 
 
