@@ -1,9 +1,19 @@
 <h1>
-  <span style="font-family:monospace; border-right:2px solid; white-space:nowrap; overflow:hidden; display:inline-block; animation:typing 4s steps(30,end), blink .75s step-end infinite;">
-    Hello, my name Rafi Risqullah Putra
-  </span>
+  <span style="display:inline-block; animation: wave 1.5s infinite;">H</span>
+  <span style="display:inline-block; animation: wave 1.5s infinite .1s;">e</span>
+  <span style="display:inline-block; animation: wave 1.5s infinite .2s;">l</span>
+  <span style="display:inline-block; animation: wave 1.5s infinite .3s;">l</span>
+  <span style="display:inline-block; animation: wave 1.5s infinite .4s;">o,</span>
+  <span style="margin-left:6px;">my name Rafi Risqullah Putra</span>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" />
 </h1>
+
+<style>
+@keyframes wave {
+  0%, 60%, 100% { transform: translateY(0); }
+  30% { transform: translateY(-10px); }
+}
+</style>
 
 <style>
 @keyframes typing {
