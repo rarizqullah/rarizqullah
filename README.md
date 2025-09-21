@@ -3,8 +3,7 @@
 <span style="display:inline-block; animation: wave 1.5s infinite .1s;">e</span> 
 <span style="display:inline-block; animation: wave 1.5s infinite .2s;">l</span> 
 <span style="display:inline-block; animation: wave 1.5s infinite .3s;">l</span> 
-<span style="display:inline-block; animation: wave 1.5s infinite .4s;">o,</span> 
-<span style="margin-left:6px;">my name Rafi Risqullah Putra</span> 
+<span style="display:inline-block; animation: wave 1.5s infinite .4s;">o</span>  
 </h1>
 
 
