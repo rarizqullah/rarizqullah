@@ -8,11 +8,9 @@
 
 
 <p align="justify">
-  Driven by a passion for future technologies, my main focus is currently on exploring the exciting fields of AI and Web3. 
-  Believing that great ideas require solid execution, I am actively strengthening my skills in modern DevOps, particularly 
-  in building CI/CD pipelines with Docker and GitHub Actions. I am always eager to collaborate and contribute to 
-  innovative open-source projects.
+  Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps practice—particularly CI/CD pipelines with Docker and GitHub Actions. I value turning ideas into reliable systems and actively collaborate on open-source initiatives that deliver real impact.
 </p>
+
 
 
 ## Stack
