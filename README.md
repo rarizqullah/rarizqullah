@@ -7,9 +7,34 @@
 </h1>
 
 
-<p align="justify">
-  Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps practice—particularly CI/CD pipelines with Docker and GitHub Actions. I value turning ideas into reliable systems and actively collaborate on open-source initiatives that deliver real impact.
-</p>
+<div class="typewriter">
+  <span id="type">
+    Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps
+    practice—particularly CI/CD pipelines with Docker and GitHub Actions. I value turning ideas
+    into reliable systems and actively collaborate on open-source initiatives that deliver real impact.
+  </span>
+</div>
+
+<style>
+  .typewriter {
+    max-width: 70ch;
+    border-right: 2px solid currentColor;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    font-size: 14px;
+    line-height: 1.6;
+    animation: caret 1s step-end infinite;
+  }
+  /* Atur 300 ke jumlah karakter teksmu */
+  .typewriter #type {
+    display: inline-block;
+    animation: type 8s steps(300, end) 1 both;
+  }
+  @keyframes type { from { width: 0 } to { width: 100% } }
+  @keyframes caret { 50% { border-color: transparent } }
+  @media (max-width: 600px) { .typewriter { max-width: 45ch } }
+</style>
 
 
 
