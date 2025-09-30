@@ -8,7 +8,7 @@
 
 
 <p align="justify"> 
-  Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps practice—particularly CI/CD pipelines with Docker and GitHub Actions. I value turning ideas into reliable systems and actively collaborate on open-source initiatives that deliver real impact. </p>
+  Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps practice particularly CI/CD pipelines with Docker and GitHub Actions. I value turning ideas into reliable systems and actively collaborate on open-source initiatives that deliver real impact. </p>
 
 
 
