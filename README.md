@@ -1,9 +1,9 @@
 <h1> 
-<span style="display:inline-block; animation: wave 1.5s infinite;">H</span> 
-<span style="display:inline-block; animation: wave 1.5s infinite .1s;">e</span> 
-<span style="display:inline-block; animation: wave 1.5s infinite .2s;">l</span> 
-<span style="display:inline-block; animation: wave 1.5s infinite .3s;">l</span> 
-<span style="display:inline-block; animation: wave 1.5s infinite .4s;">o</span>  
+<span style="display:inline-block; animation: wave 15s infinite;">H</span> 
+<span style="display:inline-block; animation: wave 15s infinite .1s;">e</span> 
+<span style="display:inline-block; animation: wave 15s infinite .2s;">l</span> 
+<span style="display:inline-block; animation: wave 15s infinite .3s;">l</span> 
+<span style="display:inline-block; animation: wave 15s infinite .4s;">o</span>  
 </h1>
 
 
