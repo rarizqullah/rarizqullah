@@ -1,5 +1,5 @@
 <h1> 
-<span style="display:inline-block; animation: wave 15s infinite;">H I !</span> 
+<span style="display:inline-block; animation: wave 15s infinite;">H I .</span> 
 </h1>
 
 
