@@ -1,5 +1,6 @@
 <h3>
-![HI im rafi @heppo.tech](./hi-text.svg)
+<img src="https://raw.githubusercontent.com/<username>/<username>/main/hi-text.svg" alt="HI im rafi @heppo.tech" />
+
 </h3>
 
 
