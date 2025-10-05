@@ -1,7 +1,5 @@
 <h3>
-<p align="left">
-  <img src="./hi-text.svg" alt="HI im rafi @heppo.tech" />
-</p>
+![HI im rafi @heppo.tech](./hi-text.svg)
 </h3>
 
 
