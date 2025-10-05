@@ -1,6 +1,5 @@
 <h3>
-<img src="https://raw.githubusercontent.com/<username>/<username>/main/hi-text.svg" alt="HI im rafi @heppo.tech" />
-
+<span style="display:inline-block; animation: wave 15s infinite;">H I .</span>
 </h3>
 
 
