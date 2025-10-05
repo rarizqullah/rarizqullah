@@ -1,5 +1,8 @@
 <h1> 
-<span style="display:inline-block; animation: wave 15s infinite;">H I .</span> 
+<p align="center">
+  <img src="./hi-text.svg" alt="HI im rafi @heppo.tech" />
+</p>
+
 </h1>
 
 
