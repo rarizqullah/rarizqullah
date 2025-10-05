@@ -1,6 +1,6 @@
 <h1> 
 <p align="left">
-  <img src="./hi-text.svg" alt="HI im rafi @heppo.tech" />
+  <img src="" alt="HI im rafi @heppo.tech" />
 </p>
 
 </h1>
