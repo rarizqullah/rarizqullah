@@ -1,5 +1,7 @@
 
-<h1 align="center">alt="HI im rafi @heppo.tech"</h1>
+<p align="center">
+  <img src="./hi-text.svg" alt="HI im rafi @heppo.tech" />
+</p>
 
 
 
