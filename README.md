@@ -1,5 +1,5 @@
 <h1> 
-<p align="center">
+<p align="left">
   <img src="./hi-text.svg" alt="HI im rafi @heppo.tech" />
 </p>
 
