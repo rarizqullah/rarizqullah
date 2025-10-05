@@ -1,7 +1,6 @@
 <h1> 
-<p align="left">
-  <img src="" alt="HI im rafi @heppo.tech" />
-</p>
+<h1 align="center">HI im rafi @heppo.tech</h1>
+
 
 </h1>
 
