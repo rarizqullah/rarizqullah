@@ -54,6 +54,25 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Room%20DB-000000?style=for-the-badge" alt="Room DB"/>
+  <img src="https://img.shields.io/badge/Retrofit-000000?style=for-the-badge" alt="Retrofit"/>
+  <img src="https://img.shields.io/badge/RecyclerView-000000?style=for-the-badge" alt="RecyclerView"/>
+
+  <!-- iOS -->
+  <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/UIKit/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit/SwiftUI"/>
+
+  <!-- Testing & CI/CD -->
+  <img src="https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Mockito-000000?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito"/>
+  <img src="https://img.shields.io/badge/Espresso-000000?style=for-the-badge&logo=android&logoColor=white" alt="Espresso"/>
+  <img src="https://img.shields.io/badge/XCTest-000000?style=for-the-badge&logo=apple&logoColor=white" alt="XCTest"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
 </p>
 
 
