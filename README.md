@@ -1,5 +1,5 @@
 <h5>
-<span style="display:inline-block; animation: wave 15s infinite;">H i i. . .</span>
+<span style="display:inline-block; animation: wave 15s infinite;">H i . . .</span>
 </h5>
 
 
