@@ -6,12 +6,18 @@
 
 
 
-<p align="justify"> 
-  Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps practice particularly CI/CD pipelines with Docker and GitHub Actions. 
-  I value turning ideas into reliable systems and actively collaborate on open-source initiatives that deliver real impact. 
-  This means I focus on learning new technologies like blockchain and artificial intelligence, while also strengthening how I build and deploy software using modern automation tools. 
+<p align="center">
+  <img src="./animated-intro.svg" alt="Animated Intro" width="100%" />
+</p>
+
+<!-- Teks statis (aksesibilitas/SEO/fallback) -->
+<p align="justify">
+  Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps practice particularly CI/CD pipelines with Docker and GitHub Actions.
+  I value turning ideas into reliable systems and actively collaborate on open-source initiatives that deliver real impact.
+  This means I focus on learning new technologies like blockchain and artificial intelligence, while also strengthening how I build and deploy software using modern automation tools.
   I enjoy working in teams, sharing knowledge, and contributing to projects that can be used by many people, not just myself.
 </p>
+
 
 
 
