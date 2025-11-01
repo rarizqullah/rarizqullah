@@ -6,11 +6,7 @@
 
 
 
-<p align="center">
-  <img src="./animated-intro.svg" alt="Animated Intro" width="100%" />
-</p>
 
-<!-- Teks statis (aksesibilitas/SEO/fallback) -->
 <p align="justify">
   Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps practice particularly CI/CD pipelines with Docker and GitHub Actions.
   I value turning ideas into reliable systems and actively collaborate on open-source initiatives that deliver real impact.
