@@ -67,7 +67,6 @@
   <!-- iOS -->
   <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/UIKit/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit/SwiftUI"/>
 
   <!-- Testing & CI/CD -->
   <img src="https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
