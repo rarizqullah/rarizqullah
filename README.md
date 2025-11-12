@@ -1,19 +1,17 @@
-<h5>
-<span style="display:inline-block; animation: wave 30s infinite;">Rap ....</span>
-</h5>
+<!-- Profile README – Rafi R Putra (rarizqullah) -->
 
-
-
-
-
-
-<p align="justify">
-  Driven by future technologies, I’m exploring AI and Web3 while deepening my modern DevOps practice particularly CI/CD pipelines with Docker and GitHub Actions.
-  I value turning ideas into reliable systems and actively collaborate on open-source initiatives that deliver real impact.
-  This means I focus on learning new technologies like blockchain and artificial intelligence, while also strengthening how I build and deploy software using modern automation tools.
-  I enjoy working in teams, sharing knowledge, and contributing to projects that can be used by many people, not just myself.
+<h1 align="center">Rafi R Putra</h1>
+<p align="center">
+  Software Developer • DevOps & Android • AI & Web3 Enthusiast
 </p>
 
+<p align="center">
+  <a href="https://heppo.tech" target="_blank">Heppo.Tech</a> •
+  <a href="https://rarizqullah.dev" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rafirisqullahputra" target="_blank">LinkedIn</a>
+</p>
+
+---
 
 
 
