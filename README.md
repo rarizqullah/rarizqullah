@@ -15,7 +15,7 @@
   </a>
 
   <!-- Experience badge -->
-  <img src="https://img.shields.io/badge/Experience-Fresh%20Graduate-blue?style=flat&labelColor=000000" alt="Experience" />
+  <img src="https://img.shields.io/badge/Experience-2-blue?style=flat&labelColor=000000" alt="Experience" />
 
   <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=rarizqullah&label=visitors&color=orange&style=flat" alt="Profile views" />
