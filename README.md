@@ -9,25 +9,25 @@
 
 
 <p>
-  <!-- Followers badge -->
+
   <a href="https://github.com/rarizqullah?tab=followers">
     <img src="https://img.shields.io/github/followers/rarizqullah?label=Follow&style=social" alt="GitHub followers" />
   </a>
 
-  <!-- Experience badge -->
+ 
   <img src="https://img.shields.io/badge/Experience-2-blue?style=flat&labelColor=000000" alt="Experience" />
 
-  <!-- Profile views -->
+  
   <img src="https://komarev.com/ghpvc/?username=rarizqullah&label=visitors&color=orange&style=flat" alt="Profile views" />
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rarizqullah">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafi%20Risqullah%20Putra-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/rafirisqullahputra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <!-- Email -->
+ 
   <a href="mailto:rafirizqullah4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rafirizqullah4%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
