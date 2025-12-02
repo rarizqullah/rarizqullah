@@ -107,10 +107,5 @@ I'm a **Software Developer** and **fresh Information Systems graduate** who enjo
 
 
 
-<br clear="both"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarizqullah&theme=dark&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=1800&v=1" alt="GitHub Stats" width="280"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rarizqullah&theme=dark&hide_border=false&cache_seconds=1800&v=1" alt="GitHub Streak" width="307"/>
-</div>
 
