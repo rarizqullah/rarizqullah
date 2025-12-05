@@ -48,7 +48,7 @@ I'm a **Software Developer** and **fresh Information Systems graduate** who enjo
 
 
 
-<img src="https://i.gifer.com/8mee.gif" alt="coding gif" align="right" width="300"/>
+
 
 <p align="left">
   
