@@ -21,28 +21,28 @@
 
 ### Greetings Everyone
 
-I am a **Software Developer** and **Information Systems graduate** who focuses on building stable, maintainable, and user-friendly applications. My work blends **clean architecture**, modern tooling, and systematic problem-solving to deliver reliable digital products. My development approach prioritizes clarity, efficient systems design, and long-term maintainability. I enjoy exploring how engineering decisions shape both developer experience and real-world product impact.
+I am a **Software Developer** and **Information Systems graduate** who focuses on building stable, maintainable, and user-friendly applications. My work blends [**Clean Architecture**](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), modern tooling, and systematic problem-solving to deliver reliable digital products. My development approach prioritizes clarity, efficient systems design, and long-term maintainability. I enjoy exploring how engineering decisions shape both developer experience and real-world product impact.
 
 ### What I'm Working On
 
-Currently, I am developing a scalable **Employee Management System (EMS)** using **Next.js**, **Supabase**, **Prisma**, and **Docker**. This project emphasizes predictable data flows, efficient API design, and a strong developer experience.
+Currently, I am developing a scalable **Employee Management System (EMS)** using [**Next.js**](https://nextjs.org), [**Supabase**](https://supabase.com), [**Prisma**](https://www.prisma.io), and [**Docker**](https://www.docker.com). This project emphasizes predictable data flows, efficient API design, and a strong developer experience.
 
-On the mobile front, I am building a Mandiri-style **News Application** using **Kotlin** and **Jetpack Compose**. The application implements **MVVM** and **Clean Architecture**, focusing strictly on UI responsiveness, modularity, and maintainable state management.
+On the mobile front, I am building a Mandiri-style **News Application** using [**Kotlin**](https://kotlinlang.org) and [**Jetpack Compose**](https://developer.android.com/jetpack/compose). The application implements [**MVVM**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) and **Clean Architecture**, focusing strictly on UI responsiveness, modularity, and maintainable state management.
 
-Simultaneously, I am constructing an **Inventory Management System** backend using **Go**, **Gin**, **SQLC**, and **PostgreSQL**. This system is structured with clean modular layers to support reliability, high performance, and smooth feature expansion.
+Simultaneously, I am constructing an **Inventory Management System** backend using [**Go**](https://go.dev), [**Gin**](https://gin-gonic.com), [**SQLC**](https://sqlc.dev), and [**PostgreSQL**](https://www.postgresql.org). This system is structured with clean modular layers to support reliability, high performance, and smooth feature expansion.
 
-Beyond coding, I am actively exploring **Linux**, tooling, and **DevOps** workflows. This includes working with rootless **Docker**, local **Supabase** environments, and **CI/CD automation** to optimize developer tooling and environment standardization.
+Beyond coding, I am actively exploring [**Linux**](https://www.linux.org), tooling, and **DevOps** workflows. This includes working with rootless **Docker**, local **Supabase** environments, and [**CI/CD automation**](https://about.gitlab.com/topics/ci-cd/) to optimize developer tooling and environment standardization.
 
 ### Technical Stack & Interests
 
 My technical expertise is centered on modern web development with a focus on speed, correctness, and maintainability.
 
-* **Backend Engineering:** I specialize in **Go**, **Gin**, **SQLC**, **Supabase**, **PostgreSQL**, **Prisma**, and **REST/GraphQL** to build type-safe and efficient services.
-* **Frontend Development:** I utilize **Next.js**, **React**, **TypeScript**, and **Tailwind** to create responsive interfaces.
-* **Mobile Development:** I work with **Kotlin**, **Jetpack Compose**, and **MVVM** patterns for native Android development.
-* **DevOps & Tools:** My workflow relies on **Docker** (including rootless containers), **CI/CD pipelines**, **Linux**, **Git**, **VS Code**, and **JetBrains IDEs**.
+* **Backend Engineering:** I specialize in [**Go**](https://go.dev), [**Gin**](https://gin-gonic.com), [**SQLC**](https://sqlc.dev), [**Supabase**](https://supabase.com), [**PostgreSQL**](https://www.postgresql.org), [**Prisma**](https://www.prisma.io), and **REST/GraphQL** to build type-safe and efficient services.
+* **Frontend Development:** I utilize [**Next.js**](https://nextjs.org), [**React**](https://react.dev), [**TypeScript**](https://www.typescriptlang.org), and [**Tailwind CSS**](https://tailwindcss.com) to create responsive interfaces.
+* **Mobile Development:** I work with [**Kotlin**](https://kotlinlang.org), [**Jetpack Compose**](https://developer.android.com/jetpack/compose), and **MVVM** patterns for native Android development.
+* **DevOps & Tools:** My workflow relies on [**Docker**](https://www.docker.com) (including rootless containers), **CI/CD pipelines**, **Linux**, **Git**, **VS Code**, and **JetBrains IDEs**.
 
-I am also deeply interested in software architecture, domain modeling, systematic debugging, and the practical applications of **AI** and **Web3** in production environments.
+I am also deeply interested in software architecture, domain modeling, systematic debugging, and the practical applications of [**AI**](https://en.wikipedia.org/wiki/Artificial_intelligence) and **Web3** in production environments.
 
 ### What I Value in Software
 
