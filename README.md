@@ -23,7 +23,7 @@
 
 I am a **Software Developer** and **Information Systems graduate** who focuses on building stable, maintainable, and user-friendly applications. My work blends [**Clean Architecture**](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), modern tooling, and systematic problem-solving to deliver reliable digital products. My development approach prioritizes clarity, efficient systems design, and long-term maintainability. I enjoy exploring how engineering decisions shape both developer experience and real-world product impact.
 
-### What I'm Working On
+### What I'm Working On !
 
 Currently, I am developing a scalable **Employee Management System (EMS)** using [**Next.js**](https://nextjs.org), [**Supabase**](https://supabase.com), [**Prisma**](https://www.prisma.io), and [**Docker**](https://www.docker.com). This project emphasizes predictable data flows, efficient API design, and a strong developer experience.
 
