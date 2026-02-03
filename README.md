@@ -19,7 +19,7 @@
 
 <br/>
 
-### Greetings Everyone !
+### Greetings Everyone 
 
 I am a **Software Developer** and **Information Systems graduate** who focuses on building stable, maintainable, and user-friendly applications. My work blends [**Clean Architecture**](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), modern tooling, and systematic problem-solving to deliver reliable digital products. My development approach prioritizes clarity, efficient systems design, and long-term maintainability. I enjoy exploring how engineering decisions shape both developer experience and real-world product impact.
 
