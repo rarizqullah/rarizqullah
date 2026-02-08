@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2500&pause=800&color=9ca3af&center=true&vCenter=true&width=900&lines=Rafi+Risqullah+Putra;Software+Developer+at+Heppo.Tech;Fresh+Graduate+in+Information+Systems;Building+Automation+Systems+%26+Android+Apps" 
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2500&pause=800&color=9ca3af&center=true&vCenter=true&width=900&lines=Rafi+Risqullah+Putra;Software+Developer+at+Heppo.Tech;Building+Automation+Systems+%26+Android+Apps" 
     alt="Rafi R Putra - Software Developer"
   />
 </p>
