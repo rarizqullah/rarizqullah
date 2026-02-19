@@ -25,7 +25,7 @@ I am a **Software Developer** and **Information Systems graduate** who focuses o
 
 ### What I'm Working On 
 
-Currently, I am developing a scalable **Employee Management System (EMS)** using [**Next.js**](https://nextjs.org), [**Supabase**](https://supabase.com), [**Prisma**](https://www.prisma.io), and [**Docker**](https://www.docker.com). This project emphasizes predictable data flows, efficient API design, and a strong developer experience.
+Currently, I am developing a scalable **Employee Management System (EMS)** using [**Next.js**](https://nextjs.org), [**PostgreSQL**](https://postgresql.com), and [**Docker**](https://www.docker.com). This project emphasizes predictable data flows, efficient API design, and a strong developer experience.
 
 On the mobile front, I am building a Mandiri-style **News Application** using [**Kotlin**](https://kotlinlang.org) and [**Jetpack Compose**](https://developer.android.com/jetpack/compose). The application implements [**MVVM**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) and **Clean Architecture**, focusing strictly on UI responsiveness, modularity, and maintainable state management.
 
